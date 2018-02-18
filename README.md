@@ -10,7 +10,7 @@ BCL se organiza como un laboratorio de ideas y experimentación, donde los parti
 ----
 ## ¿Cómo puedes hacerte miembro del BCL mediante *proof of work*?
 
-1. Busca el repositorio de BCL: https://github.com/BlockchainEspanaHQ/CommunityLab.
+1. Busca el repositorio de BCL: https://github.com/BlockchainEspana/CommunityLab.
 2. Presiona el botón *fork*. Esto genera automáticamente una copia del mismo en tu perfil.
 3. Modifica el fichero members.md, añadiéndote a la lista.
 4. Presiona *Pull Request* para enviárnoslo de nuevo.
